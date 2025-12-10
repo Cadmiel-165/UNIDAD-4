@@ -4,7 +4,7 @@ public class PerImpar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Pedimos al usuario que ingrese un número entero positivo
+        // Pedimos al usuario qu e ingrese un número entero positivo
         System.out.print("Ingresa un número entero positivo: ");
         int N = sc.nextInt();
 
@@ -25,4 +25,5 @@ public class PerImpar {
         }
     }
 }
+
 
