@@ -5,7 +5,7 @@ public class ContadorVocales {
 
         Scanner sc = new Scanner(System.in);
 
-        // Creamos un arreglo de 10 caracteres
+        // Creamos un a rreglo de 10 caracteres
         char[] letras = new char[10];
 
         // Pedimos al usuario que escriba 10 letras
@@ -34,3 +34,4 @@ public class ContadorVocales {
         System.out.println("Cantidad de vocales: " + contadorVocales);
     }
 }
+
