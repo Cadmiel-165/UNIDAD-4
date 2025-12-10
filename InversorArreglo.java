@@ -8,7 +8,7 @@ public class InversorArreglo {
         // Declaramos un arreglo de 5 enteros
         int numeros[] = new int[5];
 
-        // Pedimos al usuario que ingrese 5 números
+        // Pedimos al usuario que ing rese 5 números
         System.out.println("Ingresa 5 números enteros:");
         //mientras i sea menor que 5, se repite, y cada vez que termina una vuelta le suma 1
         for (int i = 0; i < 5; i++) {
@@ -25,3 +25,4 @@ public class InversorArreglo {
         sc.close();
     }
 }
+
