@@ -5,7 +5,7 @@ public class PromedioArreglo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Declaramos un arreglo de 5 calificaciones
+        // Declaramos un arr eglo de 5 calificaciones
         float[] calificaciones = new float[5];
 
         // Pedimos al usuario que llene el arreglo
@@ -38,3 +38,4 @@ public class PromedioArreglo {
         return suma / tamaño;
     }
 }
+
