@@ -14,7 +14,7 @@ public class Caluladora {
         System.out.println("Escribe 1 para circulo o 2 para rectangulo🤗");
         opcion = input.nextInt();
 
-        if (opcion == 1) {
+        if (opcion == 1)   {
             System.out.print("Introduce el radio: ");
             radio = input.nextDouble();
 
@@ -51,3 +51,4 @@ public class Caluladora {
 
 
 }
+
