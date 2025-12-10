@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class VCF {
     public static void main(String[] args) {
@@ -36,5 +36,6 @@ public class VCF {
         sc.close();
     }
 }
+
 
 
