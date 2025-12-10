@@ -4,7 +4,7 @@ public class ConversorUnidades {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        double valor;   // aquí guardamos el número que el usuario quiere convertir
+        double valor;   // aquí guardamos el númer o que el usuario quiere convertir
         int opcion;     // aquí guardamos qué conversión eligió el usuario (1, 2 o 3)
 
         // Pedimos el valor pa convertir
@@ -41,4 +41,5 @@ public class ConversorUnidades {
         }
     }
 }
+
 
