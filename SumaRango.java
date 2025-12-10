@@ -7,7 +7,7 @@ public class SumaRango {
         int A, B;
         int suma = 0;
 
-        // Pedimos los dos números
+        // Pedimos los dos núme ros
         System.out.println("Ingresa el inicio del rango (A): ");
         A = input.nextInt();
 
@@ -29,3 +29,4 @@ public class SumaRango {
         System.out.println("La suma desde " + A + " hasta " + B + " es: " + suma);
     }
 }
+
