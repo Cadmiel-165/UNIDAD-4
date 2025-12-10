@@ -11,7 +11,7 @@ public class ContrasenaSimple {
         System.out.println("Ingresa la contraseña: ");
 
         intento = input.nextLine();
-       //Mientras la contraseña esté mal y aún queden intentos, se vuelve a pedir
+       //Mientras la contraseña esté mal y  aún queden intentos, se vuelve a pedir
         while (!intento.equals(contra) && intentos < 3) {
 
             intentos++;  // contamos este intento
@@ -41,4 +41,5 @@ public class ContrasenaSimple {
 
 
     }
+
 
