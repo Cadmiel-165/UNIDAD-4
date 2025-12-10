@@ -5,7 +5,7 @@ public class ClasificadorCalificaciones {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Pedimos la calificación al usuario
+        // Pedimos  la calificación al usuario
         System.out.println("Ingresa la calificación (0-100):");
         int calificacion = input.nextInt();
 
@@ -33,3 +33,4 @@ public class ClasificadorCalificaciones {
         }
     }
 }
+
